@@ -1,6 +1,6 @@
 import streamlit as st
 st.set_page_config(
-    page_title="Portfolio |Aisyah",
+    page_title="Portfolio |erna",
     page_icon="👨‍🎓",
     layout="wide"
 )
@@ -16,11 +16,11 @@ with col1:
 
 with col2:
    st.header("My Biodata")
-   st.subheader("NAMA : RU'YATUN AISA")
-   st.caption("NIM : 0402201093")
+   st.subheader("NAMA : erna nurfadhilah")
+   st.caption("NIM : 0402201075")
    st.write(
             """
-            - Tempat Tanggal Lahir : Brebes 13 Juni 2002 
+            - Tempat Tanggal Lahir : Brebes 10 Juni 2002 
             - Alamat               : Pengabean Losari Brebes
             - Hobi                 : Healing
             - Cita-cita            : Pengusaha
